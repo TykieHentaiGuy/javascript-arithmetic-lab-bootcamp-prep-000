@@ -52,3 +52,14 @@ describe('preserveDecimal(n)', function() {
     expect(isNaN(preserveDecimal('sldkjflksjf'))).toEqual(true)
   })
 })
+function
+number += (a//b){
+console.log(number)//2000{
+f
+number -= a//b{
+console.log(number)
+
+function
+console.log(number)//1000
+ 
+}
